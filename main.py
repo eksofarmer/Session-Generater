@@ -26,7 +26,7 @@ tutor = """
 """
 
 template = """
- Updates: @Superior_bots
+ Updates: @Somalibots
             
 <code>STRING_SESSION</code>: <code>{}</code>
 
